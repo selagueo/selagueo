@@ -1,6 +1,6 @@
 ### Hello World 👋 🌎
 
-<!--
+
 My name is **José Lagos**, I'm 23 years old and this is my personal GitHub.
 
 A little resume about myself:
@@ -11,4 +11,4 @@ A little resume about myself:
 - 📫 How to reach me: Via Email at joselagos972@gmail.com
 - 😄 Pronouns: He / Him
 - 👀 Fun fact: I love tennis more than I love my Nintendos.
--->
+
