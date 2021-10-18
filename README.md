@@ -1,7 +1,7 @@
 ### Hello World 👋🏽 🌎
 
 
-My name is **José Lagos**, I'm a 23 years old developer student from Argentina, Mendoza. 🇦🇷 🍇
+My name is **José Lagos**, I'm a 24 years old developer student from Argentina, Mendoza. 🇦🇷 🍇
 
 A little resume about myself:
 
