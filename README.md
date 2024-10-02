@@ -9,7 +9,7 @@ A little resume about myself:
 - 👷 Also working in SLINGR as a UX Engenieer.
 - 🦾 I'm passionate about UX.
 - 🤝 I'm interested in Agile Methodologies, currently studying Agile (Scrum and Kanban).
-- 📫 How to reach me: Via Email at joselagos972@gmail.com or clicking on my LinkedIn profile.
+- 📫 How to reach me: Via Email at jlagos@halfpipe.dev or clicking on my LinkedIn profile.
 - 😄 Pronouns: He / Him.
 - 👀 Fun fact: Some of my hobbies are painting and playing golf, but I also love collecting retro consoles.
 
