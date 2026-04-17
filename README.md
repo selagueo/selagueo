@@ -2,7 +2,7 @@
 
 # Hey there, I'm José 👋
 
-**UX Engineer · Systems Engineering Student · Agile Enthusiast**
+**UX Engineer · Information Systems Engineer · Agile Enthusiast**
 
 *Building digital products from Mendoza, Argentina 🇦🇷🍇*
 
@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🎓 Studying **Information Systems Engineering**
+- 🎓 **Information Systems Engineer**
 - 🏢 Running my own company — focused on digital products
 - 🎨 Passionate about **UX design** and the craft of building intuitive interfaces
 - 🔄 Deep into **Agile** — Scrum, Kanban, and everything in between
