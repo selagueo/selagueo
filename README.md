@@ -89,19 +89,6 @@
 
 <br />
 
-### ✦ GitHub
-
-<p align="center">
-  <a href="https://github.com/selagueo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=selagueo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=BC52EE&icon_color=BC52EE&text_color=808080" />
-  </a>
-  <a href="https://github.com/selagueo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selagueo&layout=compact&hide_border=true&theme=transparent&title_color=BC52EE&text_color=808080" />
-  </a>
-</p>
-
-<br />
-
 ### ✦ Hablemos
 
 <p>
